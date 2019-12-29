@@ -6,7 +6,7 @@
         "value": "perficient-internal-errorcode-dev"
       },
       "alertDesc": {
-        "value": "Tracking specific error codes"
+        "value": "401"
       },
       "emailSubject": {
         "value": "MSO Flex: Error Code"
