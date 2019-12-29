@@ -57,7 +57,7 @@
   },
   "resources": [
   {
-      "name": "[parameters('alertDesc')]",
+      "name": "[parameters('alertName')]",
       "apiVersion": "2019-12-12",
       "type":"Microsoft.Insights/scheduledQueryRules",
       "location": "[resourceGroup().location]",
