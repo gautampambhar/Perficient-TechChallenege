@@ -67,7 +67,7 @@
     "properties": {
       "description": "[parameters('alertDesc')]",
       "enabled": "[parameters('alertEnabled')]",
-      "skuType": "L1",
+      "skuType": "s1",
       "source": {
         "query": "[parameters('appInsightsQuery')]",
         "dataSourceId": "[parameters('appInsightsId')]",
